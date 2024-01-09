@@ -33,6 +33,7 @@ Power BI Desktop
 11)	How have employee hire counts varied over time?
 
 
+
     ### Findings:
 1)	There are more male employees than female or non-conforming employees.
 2)	The genders are fairly evenly distributed across departments. There are slightly more male employees overall.
@@ -46,6 +47,7 @@ Power BI Desktop
 10)	There are 182 job titles in the company, with Research Assistant II taking most of the employees (634) and Assistant Professor, Marketing Manager, Office Assistant IV, Associate Professor and VP of Training and Development taking the just 1 employee each.
 11)	Employee hire counts have increased over the years
     
+
 
 
     ### 1) Create Database
