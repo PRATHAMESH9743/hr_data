@@ -329,7 +329,7 @@ ORDER BY percent_hire_change ASC;
 ### Findings:
 1)	There are more male employees than female or non-conforming employees.
 2)	The genders are fairly evenly distributed across departments. There are slightly more male employees overall.
-3)	Employees 21-30 years old are the fewest in the company. Most employees are 31-50 years old. Surprisingly, the age group 50+ have the most employees in the company.
+3)	Employees 22-30 years old are the fewest in the company. Most employees are 31-50 years old. Surprisingly, the age group 50+ have the most employees in the company.
 4)	Caucasian employees are the majority in the company, followed by mixed race, black, Asian, Hispanic, and native Americans.
 5)	The average length of employment is 7 years.
 6)	Auditing has the highest turnover rate, followed by Legal, Research & Development and Training. Business Development & Marketing have the lowest turnover rates.
