@@ -34,7 +34,7 @@ Power BI Desktop
 
 
 
-    ### Findings:
+    ## Findings:
 1)	There are more male employees than female or non-conforming employees.
 2)	The genders are fairly evenly distributed across departments. There are slightly more male employees overall.
 3)	Employees 21-30 years old are the fewest in the company. Most employees are 31-50 years old. Surprisingly, the age group 50+ have the most employees in the company.
